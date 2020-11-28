@@ -1,4 +1,4 @@
-package shiftArray
+package cyclicRotation
 
 func ShiftKTimes(A []int, K int) []int {
     if len(A) < 2 {
